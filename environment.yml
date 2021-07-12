@@ -1,0 +1,19 @@
+name: fits
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python
+  - pip
+  - matplotlib
+  - seaborn
+  - pandas
+  - numpy
+  - scipy
+  - jupyter
+  - h5py
+  - pip:
+    - emcee
+    - gvar
+    - lsqfit
