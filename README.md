@@ -12,5 +12,5 @@ conda env create -f environment.yml
 Check that the `fits` environment has been created and then activate it
 ```shell
 conda env list
-conda activate fits
+conda activate lattice-fits
 ```
