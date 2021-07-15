@@ -13,7 +13,10 @@ dependencies:
   - scipy
   - jupyter
   - h5py
+  - tabulate
+  - black
   - pip:
     - emcee
     - gvar
     - lsqfit
+    - fire
