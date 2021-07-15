@@ -2,11 +2,11 @@
 # given N, g, m, T we collect all the observables along the monte carlo trajectory
 # including the parameters of the monte carlo integration
 # %%
-import numpy as np
 import pandas as pd
 from pathlib import Path
 from linecache import getline
 import re
+import fire
 
 # %%
 # extract the MCMC parameters for a run (they are contained in the header)
@@ -96,28 +96,40 @@ def create_dataframe(pfile: str) -> pd.DataFrame:
     return data
 
 
-# %% [markdown]
-# Define the data folder and get the subfolders with the data files
+# %%
+# main function to gather the data from a folder or many folders
+def gather_data(
+    data_folder: str = "../lattice/improv_runs",
+    run_folder: str = "bmn2_su3_g20/l128/t005",
+    do_all: bool = False,
+):
+    """Collect all the data for the observables in different output files for the same set of parameters
 
-# %%
-# lattice data folder
-data_lattice = "../../lattice/improv_runs/"
-pdata = Path(data_lattice)
-runs = [x for x in pdata.glob("bmn2_*/l*/t*")]
-print(f"We have a total of {len(runs)} runs")
-# %% [markdown]
-# Get txt files inside a folder
+    Args:
+        data_folder (str, optional): The main data folder where all the different parameters were run. Defaults to "../../lattice/improv_runs/".
+        run_folder (str, optional): The specific run folder with gauge group, coupling, lattice size and temperature. Defaults to "bmn2_su3_g20/l128/t005".
+        do_all (bool, optional): If we should collect the data from all runs or just the one specified. Defaults to False.
+    """
+    pdata = Path(data_folder)
+    assert pdata.is_dir()
+    assert (pdata / run_folder).is_dir()
+    if do_all:
+        all_runs = [x for x in pdata.glob("bmn2_*/l*/t*")]
+    else:
+        all_runs = [pdata / run_folder]
+    # loop over runs: they are Path objects
+    print(f"We have a total of {len(all_runs)} runs to gather...")
+    for run in all_runs:
+        # get the output files: should end with a number before the extension
+        pfiles = [x for x in run.glob("*[0-9].txt") if x.is_file()]
+        if len(pfiles) > 0:
+            print(f"- We have a total of {len(pfiles)} files in run {run}")
+            frames = [create_dataframe(str(f)) for f in pfiles]
+            result = pd.concat(frames)
+            print(f"-- total data size: {result.shape}")
+            outputfile = run / "data.h5"
+            result.to_hdf(outputfile, "mcmc_obs", format="fixed", mode="w")
+            print(f"-- file saved in {outputfile.as_posix()}")
 
-# %%
-pfiles = [x for x in runs[0].glob("*.txt") if x.is_file()]
-print(f"All files: {pfiles}")
-
-# %%
-# Use list comprehension to create the final dataframe of a MCMC run
-frames = [create_dataframe(str(f)) for f in pfiles]
-result = pd.concat(frames)
-
-# %%
-# save to hdf5 binary format
-result.to_hdf("test.h5", "mcmc_obs", format="fixed", mode="w")
-# %%
+if __name__ == "__main__":
+    fire.Fire(gather_data)
