@@ -90,7 +90,7 @@ def plot_results(results, L_min, figname):
     en = dx.E.values
     avg_en = gv.mean(en)
     std_en = gv.sdev(en)
-    ax1.set_ylim(np.amin(avg_en-5*std_en), np.amax(avg_en+5*std_en))
+    ax1.set_ylim(np.amin(avg_en - 5 * std_en), np.amax(avg_en + 5 * std_en))
     te = dx.temp.values
     ch = dx.rchisq.values
     ax1.errorbar(te, avg_en, std_en, fmt="o", label=f"cut L: {int(L_min)}")
