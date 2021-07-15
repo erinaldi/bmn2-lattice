@@ -3,13 +3,14 @@
 # including the parameters of the monte carlo integration
 # %%
 import numpy as np
-from glob import glob
-import h5py as h5
+import pandas as pd
 from pathlib import Path
 from linecache import getline
 import re
 
 # %%
+# extract the MCMC parameters for a run (they are contained in the header)
+# they will be used as new columns in the dataframe so we can plot them for each run
 def get_params(pfile: str) -> dict:
     """Extract the parameters of a MC chain by looking at the header of the output file.txt
 
@@ -30,7 +31,7 @@ def get_params(pfile: str) -> dict:
     udtau = re.findall(pattern, line_udtau)[0]
     line_more = getline(pfile, 2)
     more = re.findall(pattern, line_more)[0]
-    pattern = r"(\d\.?\d+)\s+"
+    pattern = r"[\d.]+(?:E-?\d+)?"
     t, m, g = re.findall(pattern, more)
     return {
         "nmat": int(nmat),
@@ -43,39 +44,80 @@ def get_params(pfile: str) -> dict:
     }
 
 
+# Explaining the regexp for the final 3 numbers (from https://stackoverflow.com/questions/4479408/regex-for-numbers-on-scientific-notation)
+# -?      # an optional -
+# [\d.]+  # a series of digits or dots (see *1)
+# (?:     # start non capturing group
+#   E     # "E"
+#   -?    # an optional -
+#   \d+   # digits
+# )?      # end non-capturing group, make optional
 # %%
-Path.glob()
-# Util to travers h5 files tree and print name for groups and datasets
-# using the `visit` method
-def printname(name):
-    print(name)
+# read the observables from a txt file and create a dataframe
+# also add the MCMC params as new columns, using the trajectory number as index
+def create_dataframe(pfile: str) -> pd.DataFrame:
+    """Create the dataframe containing the observables for each trajectory.
+    Then add the MCMC parameters from the header as additional columns.
+    This is advantageous because these parameters can be used to group specific trajectories together.
+
+    Args:
+        pfile (str): The name of the txt file where the observables are saved
+
+    Returns:
+        pd.DataFrame: a `pandas` dataframe containing the observables and the MCMC parameters of the run
+
+    """
+    try:
+        mc_params = get_params(pfile)
+    except:
+        print("Problem getting the mcmc parameters")
+    # column names
+    cols = ["tj", "dH", "e", "p", "x2", "f2", "ub", "acc"]
+    # and their types
+    typs = {
+        "tj": int,
+        "dH": float,
+        "e": float,
+        "p": float,
+        "x2": float,
+        "f2": float,
+        "ub": float,
+        "acc": float,
+    }
+    # read data: skip header, make tj the index
+    data = pd.read_csv(
+        pfile, sep="\s+", skiprows=7, names=cols, dtype=typs, index_col="tj"
+    )
+    # add mcmc params as columns
+    for k, v in mc_params.items():
+        data[k] = v
+    # add mdtu columns
+    data["mdtu"] = data.xdtau * data.ntau * data.index
+    return data
+
+
+# %% [markdown]
+# Define the data folder and get the subfolders with the data files
 
 # %%
-# Choose the data folder
-folders = np.array(glob("../improv_runs/bmn2_su2_g20/l64/t04/*.txt"))[::-1]
-n, l, m = get_params(folders[0])[:-1]
+# lattice data folder
+data_lattice = "../../lattice/improv_runs/"
+pdata = Path(data_lattice)
+runs = [x for x in pdata.glob("bmn2_*/l*/t*")]
+print(f"We have a total of {len(runs)} runs")
+# %% [markdown]
+# Get txt files inside a folder
 
 # %%
-# Open the HDF5 file
-f = h5.File("correlator.h5")
-# Create group for the corresponding data folder
-g = f.create_group("nf={}_L={}_mf={}".format(n, l, m))
+pfiles = [x for x in runs[0].glob("*.txt") if x.is_file()]
+print(f"All files: {pfiles}")
 
-# Choose how many distances to keep.
-Nd = 100
+# %%
+# Use list comprehension to create the final dataframe of a MCMC run
+frames = [create_dataframe(str(f)) for f in pfiles]
+result = pd.concat(frames)
 
-# Create groups for all flow times
-for jobfolder in folders:
-    flowTime = get_params(jobfolder)[3]
-    g.create_group("tw={}".format(flowTime))
-    # Collect the actual data into numpy arrays and place it into datasets in the corresponding h5 file groups
-    cfgfiles = np.array(glob(jobfolder + "/Data/data_corr.*.txt"))
-    distance, testcorr = np.loadtxt(np.sort(cfgfiles)[0], usecols={0, 1}, unpack=True)
-    for cfgfile in np.sort(cfgfiles)[1:]:
-        testcorr = np.vstack((testcorr, np.loadtxt(cfgfile, usecols={1}, unpack=True)))
-    distance = distance[:Nd]
-    testcorr = testcorr[:, :Nd]
-    g["tw={}".format(flowTime)].create_dataset("correlator", data=testcorr)
-    g["tw={}".format(flowTime)].create_dataset("distance", data=distance)
-# close
-f.close()
+# %%
+# save to hdf5 binary format
+result.to_hdf("test.h5", "mcmc_obs", format="fixed", mode="w")
+# %%
