@@ -12,7 +12,7 @@ dependencies:
   - numpy
   - scipy
   - jupyter
-  - h5py
+  - tables
   - tabulate
   - black
   - pip:
