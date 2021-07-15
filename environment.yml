@@ -1,4 +1,4 @@
-name: fits
+name: lattice-fits
 
 channels:
   - conda-forge
