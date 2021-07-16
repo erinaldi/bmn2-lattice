@@ -125,10 +125,10 @@ def gather_data(
         if len(pfiles) > 0:
             print(f"- We have a total of {len(pfiles)} files in run {run}")
             frames = [create_dataframe(str(f)) for f in pfiles]
-            result = pd.concat(frames)
+            result = pd.concat(frames, verify_integrity=True)
             print(f"-- total data size: {result.shape}")
             outputfile = run / "data.h5"
-            result.to_hdf(outputfile, "mcmc_obs", format="fixed", mode="w")
+            result.sort_index().to_hdf(outputfile, "mcmc_obs", format="fixed", mode="w")
             print(f"-- file saved in {outputfile.as_posix()}")
 
 if __name__ == "__main__":
