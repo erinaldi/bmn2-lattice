@@ -1,1456 +1,1456 @@
 We have a total of 497 runs to gather...
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g20/l16/t005
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g20/l16/t005/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g20/l16/t035
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g20/l16/t035/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g20/l16/t0025
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g20/l16/t0025/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g20/l16/t01
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g20/l16/t01/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g20/l16/t025
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g20/l16/t025/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g20/l16/t02
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g20/l16/t02/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g20/l16/t04
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g20/l16/t04/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g20/l16/t015
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g20/l16/t015/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g20/l16/t03
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g20/l16/t03/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g20/l32/t005
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g20/l32/t005/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g20/l32/t035
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g20/l32/t035/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g20/l32/t0025
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g20/l32/t0025/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g20/l32/t01
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g20/l32/t01/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g20/l32/t025
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g20/l32/t025/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g20/l32/t02
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g20/l32/t02/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g20/l32/t04
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g20/l32/t04/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g20/l32/t015
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g20/l32/t015/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g20/l32/t03
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g20/l32/t03/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g20/l48/t005
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g20/l48/t005/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g20/l48/t035
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g20/l48/t035/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g20/l48/t0025
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g20/l48/t0025/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g20/l48/t01
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g20/l48/t01/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g20/l48/t025
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g20/l48/t025/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g20/l48/t02
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g20/l48/t02/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g20/l48/t04
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g20/l48/t04/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g20/l48/t015
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g20/l48/t015/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g20/l48/t03
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g20/l48/t03/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g20/l192/t005
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g20/l192/t005/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g20/l192/t035
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g20/l192/t035/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g20/l192/t0025
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g20/l192/t0025/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g20/l192/t01
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g20/l192/t01/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g20/l192/t025
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g20/l192/t025/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g20/l192/t02
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g20/l192/t02/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g20/l192/t04
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g20/l192/t04/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g20/l192/t015
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g20/l192/t015/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g20/l192/t03
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g20/l192/t03/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g20/l24/t005
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g20/l24/t005/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g20/l24/t035
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g20/l24/t035/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g20/l24/t0025
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g20/l24/t0025/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g20/l24/t01
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g20/l24/t01/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g20/l24/t025
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g20/l24/t025/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g20/l24/t02
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g20/l24/t02/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g20/l24/t04
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g20/l24/t04/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g20/l24/t015
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g20/l24/t015/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g20/l24/t03
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g20/l24/t03/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g20/l96/t005
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g20/l96/t005/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g20/l96/t035
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g20/l96/t035/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g20/l96/t0025
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g20/l96/t0025/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g20/l96/t01
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g20/l96/t01/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g20/l96/t025
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g20/l96/t025/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g20/l96/t02
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g20/l96/t02/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g20/l96/t04
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g20/l96/t04/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g20/l96/t015
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g20/l96/t015/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g20/l96/t03
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g20/l96/t03/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g20/l128/t005
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g20/l128/t005/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g20/l128/t035
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g20/l128/t035/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g20/l128/t0025
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g20/l128/t0025/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g20/l128/t01
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g20/l128/t01/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g20/l128/t025
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g20/l128/t025/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g20/l128/t02
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g20/l128/t02/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g20/l128/t04
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g20/l128/t04/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g20/l128/t015
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g20/l128/t015/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g20/l128/t03
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g20/l128/t03/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g20/l64/t005
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g20/l64/t005/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g20/l64/t035
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g20/l64/t035/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g20/l64/t0025
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g20/l64/t0025/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g20/l64/t01
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g20/l64/t01/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g20/l64/t025
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g20/l64/t025/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g20/l64/t02
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g20/l64/t02/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g20/l64/t04
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g20/l64/t04/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g20/l64/t015
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g20/l64/t015/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g20/l64/t03
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g20/l64/t03/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g10/l16/t005
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l16/t005/data.h5
 - We have a total of 5 files in run ../lattice/improv_runs/bmn2_su2_g10/l16/t06
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l16/t06/data.h5
 - We have a total of 5 files in run ../lattice/improv_runs/bmn2_su2_g10/l16/t07
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l16/t07/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g10/l16/t01
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l16/t01/data.h5
 - We have a total of 4 files in run ../lattice/improv_runs/bmn2_su2_g10/l16/t15
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l16/t15/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g10/l16/t025
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l16/t025/data.h5
 - We have a total of 5 files in run ../lattice/improv_runs/bmn2_su2_g10/l16/t50
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l16/t50/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g10/l16/t02
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l16/t02/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g10/l16/t04
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l16/t04/data.h5
 - We have a total of 4 files in run ../lattice/improv_runs/bmn2_su2_g10/l16/t25
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l16/t25/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g10/l16/t015
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l16/t015/data.h5
 - We have a total of 5 files in run ../lattice/improv_runs/bmn2_su2_g10/l16/t40
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l16/t40/data.h5
 - We have a total of 5 files in run ../lattice/improv_runs/bmn2_su2_g10/l16/t05
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l16/t05/data.h5
 - We have a total of 4 files in run ../lattice/improv_runs/bmn2_su2_g10/l16/t20
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l16/t20/data.h5
 - We have a total of 5 files in run ../lattice/improv_runs/bmn2_su2_g10/l16/t08
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l16/t08/data.h5
 - We have a total of 5 files in run ../lattice/improv_runs/bmn2_su2_g10/l16/t09
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l16/t09/data.h5
 - We have a total of 5 files in run ../lattice/improv_runs/bmn2_su2_g10/l16/t10
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l16/t10/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g10/l16/t03
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l16/t03/data.h5
 - We have a total of 4 files in run ../lattice/improv_runs/bmn2_su2_g10/l16/t30
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l16/t30/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g10/l32/t005
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l32/t005/data.h5
 - We have a total of 5 files in run ../lattice/improv_runs/bmn2_su2_g10/l32/t06
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l32/t06/data.h5
 - We have a total of 5 files in run ../lattice/improv_runs/bmn2_su2_g10/l32/t07
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l32/t07/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g10/l32/t01
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l32/t01/data.h5
 - We have a total of 5 files in run ../lattice/improv_runs/bmn2_su2_g10/l32/t15
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l32/t15/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g10/l32/t025
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l32/t025/data.h5
 - We have a total of 5 files in run ../lattice/improv_runs/bmn2_su2_g10/l32/t50
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l32/t50/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g10/l32/t02
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l32/t02/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g10/l32/t04
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l32/t04/data.h5
 - We have a total of 5 files in run ../lattice/improv_runs/bmn2_su2_g10/l32/t25
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l32/t25/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g10/l32/t015
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l32/t015/data.h5
 - We have a total of 5 files in run ../lattice/improv_runs/bmn2_su2_g10/l32/t40
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l32/t40/data.h5
 - We have a total of 5 files in run ../lattice/improv_runs/bmn2_su2_g10/l32/t05
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l32/t05/data.h5
 - We have a total of 5 files in run ../lattice/improv_runs/bmn2_su2_g10/l32/t20
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l32/t20/data.h5
 - We have a total of 5 files in run ../lattice/improv_runs/bmn2_su2_g10/l32/t08
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l32/t08/data.h5
 - We have a total of 5 files in run ../lattice/improv_runs/bmn2_su2_g10/l32/t09
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l32/t09/data.h5
 - We have a total of 5 files in run ../lattice/improv_runs/bmn2_su2_g10/l32/t10
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l32/t10/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g10/l32/t03
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l32/t03/data.h5
 - We have a total of 5 files in run ../lattice/improv_runs/bmn2_su2_g10/l32/t30
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l32/t30/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g10/l48/t005
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l48/t005/data.h5
 - We have a total of 3 files in run ../lattice/improv_runs/bmn2_su2_g10/l48/t06
--- total data size: (4000, 15)
+-- total data size: (4000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l48/t06/data.h5
 - We have a total of 3 files in run ../lattice/improv_runs/bmn2_su2_g10/l48/t07
--- total data size: (4000, 15)
+-- total data size: (4000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l48/t07/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g10/l48/t01
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l48/t01/data.h5
 - We have a total of 5 files in run ../lattice/improv_runs/bmn2_su2_g10/l48/t15
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l48/t15/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g10/l48/t025
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l48/t025/data.h5
 - We have a total of 5 files in run ../lattice/improv_runs/bmn2_su2_g10/l48/t50
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l48/t50/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g10/l48/t02
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l48/t02/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g10/l48/t04
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l48/t04/data.h5
 - We have a total of 5 files in run ../lattice/improv_runs/bmn2_su2_g10/l48/t25
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l48/t25/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g10/l48/t015
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l48/t015/data.h5
 - We have a total of 5 files in run ../lattice/improv_runs/bmn2_su2_g10/l48/t40
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l48/t40/data.h5
 - We have a total of 3 files in run ../lattice/improv_runs/bmn2_su2_g10/l48/t05
--- total data size: (4000, 15)
+-- total data size: (4000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l48/t05/data.h5
 - We have a total of 4 files in run ../lattice/improv_runs/bmn2_su2_g10/l48/t20
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l48/t20/data.h5
 - We have a total of 3 files in run ../lattice/improv_runs/bmn2_su2_g10/l48/t08
--- total data size: (4000, 15)
+-- total data size: (4000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l48/t08/data.h5
 - We have a total of 3 files in run ../lattice/improv_runs/bmn2_su2_g10/l48/t09
--- total data size: (4000, 15)
+-- total data size: (4000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l48/t09/data.h5
 - We have a total of 3 files in run ../lattice/improv_runs/bmn2_su2_g10/l48/t10
--- total data size: (4000, 15)
+-- total data size: (4000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l48/t10/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g10/l48/t03
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l48/t03/data.h5
 - We have a total of 5 files in run ../lattice/improv_runs/bmn2_su2_g10/l48/t30
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l48/t30/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g10/l192/t005
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l192/t005/data.h5
 - We have a total of 5 files in run ../lattice/improv_runs/bmn2_su2_g10/l192/t06
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l192/t06/data.h5
 - We have a total of 4 files in run ../lattice/improv_runs/bmn2_su2_g10/l192/t07
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l192/t07/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g10/l192/t01
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l192/t01/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g10/l192/t15
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l192/t15/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g10/l192/t025
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l192/t025/data.h5
 - We have a total of 4 files in run ../lattice/improv_runs/bmn2_su2_g10/l192/t50
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l192/t50/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g10/l192/t02
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l192/t02/data.h5
 - We have a total of 3 files in run ../lattice/improv_runs/bmn2_su2_g10/l192/t25
--- total data size: (4000, 15)
+-- total data size: (4000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l192/t25/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g10/l192/t015
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l192/t015/data.h5
 - We have a total of 4 files in run ../lattice/improv_runs/bmn2_su2_g10/l192/t40
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l192/t40/data.h5
 - We have a total of 5 files in run ../lattice/improv_runs/bmn2_su2_g10/l192/t05
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l192/t05/data.h5
 - We have a total of 4 files in run ../lattice/improv_runs/bmn2_su2_g10/l192/t20
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l192/t20/data.h5
 - We have a total of 3 files in run ../lattice/improv_runs/bmn2_su2_g10/l192/t08
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l192/t08/data.h5
 - We have a total of 3 files in run ../lattice/improv_runs/bmn2_su2_g10/l192/t09
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l192/t09/data.h5
 - We have a total of 3 files in run ../lattice/improv_runs/bmn2_su2_g10/l192/t10
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l192/t10/data.h5
 - We have a total of 3 files in run ../lattice/improv_runs/bmn2_su2_g10/l192/t03
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l192/t03/data.h5
 - We have a total of 3 files in run ../lattice/improv_runs/bmn2_su2_g10/l192/t30
--- total data size: (4000, 15)
+-- total data size: (4000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l192/t30/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g10/l24/t005
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l24/t005/data.h5
 - We have a total of 5 files in run ../lattice/improv_runs/bmn2_su2_g10/l24/t06
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l24/t06/data.h5
 - We have a total of 5 files in run ../lattice/improv_runs/bmn2_su2_g10/l24/t07
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l24/t07/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g10/l24/t01
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l24/t01/data.h5
 - We have a total of 5 files in run ../lattice/improv_runs/bmn2_su2_g10/l24/t15
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l24/t15/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g10/l24/t025
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l24/t025/data.h5
 - We have a total of 5 files in run ../lattice/improv_runs/bmn2_su2_g10/l24/t50
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l24/t50/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g10/l24/t02
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l24/t02/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g10/l24/t04
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l24/t04/data.h5
 - We have a total of 5 files in run ../lattice/improv_runs/bmn2_su2_g10/l24/t25
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l24/t25/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g10/l24/t015
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l24/t015/data.h5
 - We have a total of 5 files in run ../lattice/improv_runs/bmn2_su2_g10/l24/t40
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l24/t40/data.h5
 - We have a total of 5 files in run ../lattice/improv_runs/bmn2_su2_g10/l24/t05
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l24/t05/data.h5
 - We have a total of 5 files in run ../lattice/improv_runs/bmn2_su2_g10/l24/t20
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l24/t20/data.h5
 - We have a total of 5 files in run ../lattice/improv_runs/bmn2_su2_g10/l24/t08
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l24/t08/data.h5
 - We have a total of 5 files in run ../lattice/improv_runs/bmn2_su2_g10/l24/t09
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l24/t09/data.h5
 - We have a total of 5 files in run ../lattice/improv_runs/bmn2_su2_g10/l24/t10
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l24/t10/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g10/l24/t03
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l24/t03/data.h5
 - We have a total of 5 files in run ../lattice/improv_runs/bmn2_su2_g10/l24/t30
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l24/t30/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g10/l96/t005
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l96/t005/data.h5
 - We have a total of 5 files in run ../lattice/improv_runs/bmn2_su2_g10/l96/t06
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l96/t06/data.h5
 - We have a total of 5 files in run ../lattice/improv_runs/bmn2_su2_g10/l96/t07
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l96/t07/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g10/l96/t01
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l96/t01/data.h5
 - We have a total of 3 files in run ../lattice/improv_runs/bmn2_su2_g10/l96/t15
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l96/t15/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g10/l96/t025
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l96/t025/data.h5
 - We have a total of 3 files in run ../lattice/improv_runs/bmn2_su2_g10/l96/t50
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l96/t50/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g10/l96/t02
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l96/t02/data.h5
 - We have a total of 3 files in run ../lattice/improv_runs/bmn2_su2_g10/l96/t04
--- total data size: (4000, 15)
+-- total data size: (4000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l96/t04/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g10/l96/t25
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l96/t25/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g10/l96/t015
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l96/t015/data.h5
 - We have a total of 3 files in run ../lattice/improv_runs/bmn2_su2_g10/l96/t40
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l96/t40/data.h5
 - We have a total of 5 files in run ../lattice/improv_runs/bmn2_su2_g10/l96/t05
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l96/t05/data.h5
 - We have a total of 3 files in run ../lattice/improv_runs/bmn2_su2_g10/l96/t20
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l96/t20/data.h5
 - We have a total of 5 files in run ../lattice/improv_runs/bmn2_su2_g10/l96/t08
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l96/t08/data.h5
 - We have a total of 4 files in run ../lattice/improv_runs/bmn2_su2_g10/l96/t09
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l96/t09/data.h5
 - We have a total of 4 files in run ../lattice/improv_runs/bmn2_su2_g10/l96/t10
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l96/t10/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g10/l96/t03
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l96/t03/data.h5
 - We have a total of 3 files in run ../lattice/improv_runs/bmn2_su2_g10/l96/t30
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l96/t30/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g10/l128/t005
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l128/t005/data.h5
 - We have a total of 3 files in run ../lattice/improv_runs/bmn2_su2_g10/l128/t06
--- total data size: (4000, 15)
+-- total data size: (4000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l128/t06/data.h5
 - We have a total of 5 files in run ../lattice/improv_runs/bmn2_su2_g10/l128/t07
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l128/t07/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g10/l128/t01
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l128/t01/data.h5
 - We have a total of 3 files in run ../lattice/improv_runs/bmn2_su2_g10/l128/t15
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l128/t15/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g10/l128/t025
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l128/t025/data.h5
 - We have a total of 3 files in run ../lattice/improv_runs/bmn2_su2_g10/l128/t50
--- total data size: (4000, 15)
+-- total data size: (4000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l128/t50/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g10/l128/t02
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l128/t02/data.h5
 - We have a total of 3 files in run ../lattice/improv_runs/bmn2_su2_g10/l128/t25
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l128/t25/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g10/l128/t015
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l128/t015/data.h5
 - We have a total of 4 files in run ../lattice/improv_runs/bmn2_su2_g10/l128/t40
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l128/t40/data.h5
 - We have a total of 4 files in run ../lattice/improv_runs/bmn2_su2_g10/l128/t05
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l128/t05/data.h5
 - We have a total of 3 files in run ../lattice/improv_runs/bmn2_su2_g10/l128/t20
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l128/t20/data.h5
 - We have a total of 5 files in run ../lattice/improv_runs/bmn2_su2_g10/l128/t08
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l128/t08/data.h5
 - We have a total of 5 files in run ../lattice/improv_runs/bmn2_su2_g10/l128/t09
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l128/t09/data.h5
 - We have a total of 4 files in run ../lattice/improv_runs/bmn2_su2_g10/l128/t10
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l128/t10/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g10/l128/t03
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l128/t03/data.h5
 - We have a total of 3 files in run ../lattice/improv_runs/bmn2_su2_g10/l128/t30
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l128/t30/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g10/l64/t005
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l64/t005/data.h5
 - We have a total of 5 files in run ../lattice/improv_runs/bmn2_su2_g10/l64/t06
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l64/t06/data.h5
 - We have a total of 5 files in run ../lattice/improv_runs/bmn2_su2_g10/l64/t07
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l64/t07/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g10/l64/t01
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l64/t01/data.h5
 - We have a total of 5 files in run ../lattice/improv_runs/bmn2_su2_g10/l64/t15
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l64/t15/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g10/l64/t025
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l64/t025/data.h5
 - We have a total of 4 files in run ../lattice/improv_runs/bmn2_su2_g10/l64/t50
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l64/t50/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g10/l64/t02
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l64/t02/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g10/l64/t04
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l64/t04/data.h5
 - We have a total of 4 files in run ../lattice/improv_runs/bmn2_su2_g10/l64/t25
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l64/t25/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g10/l64/t015
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l64/t015/data.h5
 - We have a total of 3 files in run ../lattice/improv_runs/bmn2_su2_g10/l64/t40
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l64/t40/data.h5
 - We have a total of 5 files in run ../lattice/improv_runs/bmn2_su2_g10/l64/t05
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l64/t05/data.h5
 - We have a total of 5 files in run ../lattice/improv_runs/bmn2_su2_g10/l64/t20
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l64/t20/data.h5
 - We have a total of 5 files in run ../lattice/improv_runs/bmn2_su2_g10/l64/t08
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l64/t08/data.h5
 - We have a total of 5 files in run ../lattice/improv_runs/bmn2_su2_g10/l64/t09
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l64/t09/data.h5
 - We have a total of 3 files in run ../lattice/improv_runs/bmn2_su2_g10/l64/t10
--- total data size: (8000, 15)
+-- total data size: (8000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l64/t10/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g10/l64/t03
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l64/t03/data.h5
 - We have a total of 3 files in run ../lattice/improv_runs/bmn2_su2_g10/l64/t30
--- total data size: (4000, 15)
+-- total data size: (4000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g10/l64/t30/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g20/l16/t005
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g20/l16/t005/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g20/l16/t01
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g20/l16/t01/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g20/l16/t025
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g20/l16/t025/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g20/l16/t02
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g20/l16/t02/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g20/l16/t04
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g20/l16/t04/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g20/l16/t015
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g20/l16/t015/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g20/l16/t03
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g20/l16/t03/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g20/l32/t005
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g20/l32/t005/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g20/l32/t01
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g20/l32/t01/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g20/l32/t025
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g20/l32/t025/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g20/l32/t02
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g20/l32/t02/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g20/l32/t04
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g20/l32/t04/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g20/l32/t015
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g20/l32/t015/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g20/l32/t03
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g20/l32/t03/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g20/l48/t005
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g20/l48/t005/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g20/l48/t01
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g20/l48/t01/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g20/l48/t025
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g20/l48/t025/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g20/l48/t02
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g20/l48/t02/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g20/l48/t04
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g20/l48/t04/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g20/l48/t015
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g20/l48/t015/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g20/l48/t03
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g20/l48/t03/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g20/l192/t005
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g20/l192/t005/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g20/l192/t01
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g20/l192/t01/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g20/l192/t025
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g20/l192/t025/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g20/l192/t02
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g20/l192/t02/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g20/l192/t04
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g20/l192/t04/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g20/l192/t015
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g20/l192/t015/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g20/l192/t03
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g20/l192/t03/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g20/l24/t005
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g20/l24/t005/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g20/l24/t01
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g20/l24/t01/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g20/l24/t025
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g20/l24/t025/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g20/l24/t02
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g20/l24/t02/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g20/l24/t04
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g20/l24/t04/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g20/l24/t015
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g20/l24/t015/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g20/l24/t03
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g20/l24/t03/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g20/l96/t005
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g20/l96/t005/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g20/l96/t01
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g20/l96/t01/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g20/l96/t025
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g20/l96/t025/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g20/l96/t02
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g20/l96/t02/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g20/l96/t04
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g20/l96/t04/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g20/l96/t015
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g20/l96/t015/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g20/l96/t03
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g20/l96/t03/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g20/l128/t005
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g20/l128/t005/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g20/l128/t01
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g20/l128/t01/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g20/l128/t025
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g20/l128/t025/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g20/l128/t02
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g20/l128/t02/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g20/l128/t04
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g20/l128/t04/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g20/l128/t015
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g20/l128/t015/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g20/l128/t03
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g20/l128/t03/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g20/l64/t005
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g20/l64/t005/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g20/l64/t01
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g20/l64/t01/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g20/l64/t025
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g20/l64/t025/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g20/l64/t02
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g20/l64/t02/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g20/l64/t04
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g20/l64/t04/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g20/l64/t015
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g20/l64/t015/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g20/l64/t03
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g20/l64/t03/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g10/l16/t005
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g10/l16/t005/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g10/l16/t035
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g10/l16/t035/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g10/l16/t0025
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g10/l16/t0025/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g10/l16/t01
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g10/l16/t01/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g10/l16/t025
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g10/l16/t025/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g10/l16/t02
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g10/l16/t02/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g10/l16/t04
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g10/l16/t04/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g10/l16/t015
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g10/l16/t015/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g10/l16/t03
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g10/l16/t03/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g10/l32/t005
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g10/l32/t005/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g10/l32/t035
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g10/l32/t035/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g10/l32/t0025
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g10/l32/t0025/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g10/l32/t01
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g10/l32/t01/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g10/l32/t025
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g10/l32/t025/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g10/l32/t02
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g10/l32/t02/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g10/l32/t04
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g10/l32/t04/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g10/l32/t015
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g10/l32/t015/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g10/l32/t03
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g10/l32/t03/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g10/l48/t005
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g10/l48/t005/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g10/l48/t035
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g10/l48/t035/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g10/l48/t0025
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g10/l48/t0025/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g10/l48/t01
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g10/l48/t01/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g10/l48/t025
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g10/l48/t025/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g10/l48/t02
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g10/l48/t02/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g10/l48/t04
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g10/l48/t04/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g10/l48/t015
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g10/l48/t015/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g10/l48/t03
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g10/l48/t03/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g10/l192/t005
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g10/l192/t005/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g10/l192/t035
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g10/l192/t035/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g10/l192/t0025
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g10/l192/t0025/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g10/l192/t01
--- total data size: (1840, 15)
+-- total data size: (1840, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g10/l192/t01/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g10/l192/t025
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g10/l192/t025/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g10/l192/t02
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g10/l192/t02/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g10/l192/t04
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g10/l192/t04/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g10/l192/t015
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g10/l192/t015/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g10/l192/t03
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g10/l192/t03/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g10/l24/t005
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g10/l24/t005/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g10/l24/t035
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g10/l24/t035/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g10/l24/t0025
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g10/l24/t0025/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g10/l24/t01
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g10/l24/t01/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g10/l24/t025
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g10/l24/t025/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g10/l24/t02
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g10/l24/t02/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g10/l24/t04
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g10/l24/t04/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g10/l24/t015
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g10/l24/t015/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g10/l24/t03
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g10/l24/t03/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g10/l96/t005
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g10/l96/t005/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g10/l96/t035
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g10/l96/t035/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g10/l96/t0025
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g10/l96/t0025/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g10/l96/t01
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g10/l96/t01/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g10/l96/t025
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g10/l96/t025/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g10/l96/t02
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g10/l96/t02/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g10/l96/t04
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g10/l96/t04/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g10/l96/t015
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g10/l96/t015/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g10/l96/t03
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g10/l96/t03/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g10/l128/t005
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g10/l128/t005/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g10/l128/t035
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g10/l128/t035/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g10/l128/t0025
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g10/l128/t0025/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g10/l128/t01
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g10/l128/t01/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g10/l128/t025
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g10/l128/t025/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g10/l128/t02
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g10/l128/t02/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g10/l128/t04
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g10/l128/t04/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g10/l128/t015
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g10/l128/t015/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g10/l128/t03
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g10/l128/t03/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g10/l64/t005
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g10/l64/t005/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g10/l64/t035
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g10/l64/t035/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g10/l64/t0025
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g10/l64/t0025/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g10/l64/t01
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g10/l64/t01/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g10/l64/t025
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g10/l64/t025/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g10/l64/t02
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g10/l64/t02/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g10/l64/t04
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g10/l64/t04/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g10/l64/t015
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g10/l64/t015/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g10/l64/t03
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g10/l64/t03/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g05/l16/t005
--- total data size: (1000, 15)
+-- total data size: (1000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l16/t005/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g05/l16/t035
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l16/t035/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g05/l16/t0025
--- total data size: (1000, 15)
+-- total data size: (1000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l16/t0025/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g05/l16/t01
--- total data size: (1000, 15)
+-- total data size: (1000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l16/t01/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g05/l16/t025
--- total data size: (1000, 15)
+-- total data size: (1000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l16/t025/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g05/l16/t02
--- total data size: (1000, 15)
+-- total data size: (1000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l16/t02/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g05/l16/t04
--- total data size: (1000, 15)
+-- total data size: (1000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l16/t04/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g05/l16/t015
--- total data size: (1000, 15)
+-- total data size: (1000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l16/t015/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g05/l16/t001
--- total data size: (1000, 15)
+-- total data size: (1000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l16/t001/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g05/l16/t03
--- total data size: (1000, 15)
+-- total data size: (1000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l16/t03/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g05/l32/t005
--- total data size: (1000, 15)
+-- total data size: (1000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l32/t005/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g05/l32/t035
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l32/t035/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g05/l32/t0025
--- total data size: (1000, 15)
+-- total data size: (1000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l32/t0025/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g05/l32/t01
--- total data size: (1000, 15)
+-- total data size: (1000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l32/t01/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g05/l32/t025
--- total data size: (1000, 15)
+-- total data size: (1000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l32/t025/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g05/l32/t02
--- total data size: (1000, 15)
+-- total data size: (1000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l32/t02/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g05/l32/t04
--- total data size: (1000, 15)
+-- total data size: (1000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l32/t04/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g05/l32/t015
--- total data size: (1000, 15)
+-- total data size: (1000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l32/t015/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g05/l32/t001
--- total data size: (1000, 15)
+-- total data size: (1000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l32/t001/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g05/l32/t03
--- total data size: (1000, 15)
+-- total data size: (1000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l32/t03/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g05/l48/t005
--- total data size: (1000, 15)
+-- total data size: (1000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l48/t005/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g05/l48/t035
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l48/t035/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g05/l48/t0025
--- total data size: (1000, 15)
+-- total data size: (1000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l48/t0025/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g05/l48/t01
--- total data size: (1000, 15)
+-- total data size: (1000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l48/t01/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g05/l48/t025
--- total data size: (1000, 15)
+-- total data size: (1000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l48/t025/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g05/l48/t02
--- total data size: (1000, 15)
+-- total data size: (1000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l48/t02/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g05/l48/t04
--- total data size: (1000, 15)
+-- total data size: (1000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l48/t04/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g05/l48/t015
--- total data size: (1000, 15)
+-- total data size: (1000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l48/t015/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g05/l48/t001
--- total data size: (1000, 15)
+-- total data size: (1000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l48/t001/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g05/l48/t03
--- total data size: (1000, 15)
+-- total data size: (1000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l48/t03/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g05/l192/t005
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l192/t005/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g05/l192/t035
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l192/t035/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g05/l192/t0025
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l192/t0025/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g05/l192/t01
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l192/t01/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g05/l192/t025
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l192/t025/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g05/l192/t02
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l192/t02/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g05/l192/t04
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l192/t04/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g05/l192/t015
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l192/t015/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g05/l192/t03
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l192/t03/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g05/l24/t005
--- total data size: (1000, 15)
+-- total data size: (1000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l24/t005/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g05/l24/t035
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l24/t035/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g05/l24/t0025
--- total data size: (1000, 15)
+-- total data size: (1000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l24/t0025/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g05/l24/t01
--- total data size: (1000, 15)
+-- total data size: (1000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l24/t01/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g05/l24/t025
--- total data size: (1000, 15)
+-- total data size: (1000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l24/t025/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g05/l24/t02
--- total data size: (1000, 15)
+-- total data size: (1000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l24/t02/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g05/l24/t04
--- total data size: (1000, 15)
+-- total data size: (1000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l24/t04/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g05/l24/t015
--- total data size: (1000, 15)
+-- total data size: (1000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l24/t015/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g05/l24/t001
--- total data size: (1000, 15)
+-- total data size: (1000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l24/t001/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g05/l24/t03
--- total data size: (1000, 15)
+-- total data size: (1000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l24/t03/data.h5
 - We have a total of 5 files in run ../lattice/improv_runs/bmn2_su3_g05/l96/t005
--- total data size: (1000, 15)
+-- total data size: (1000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l96/t005/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g05/l96/t035
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l96/t035/data.h5
 - We have a total of 4 files in run ../lattice/improv_runs/bmn2_su3_g05/l96/t0025
--- total data size: (1000, 15)
+-- total data size: (1000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l96/t0025/data.h5
 - We have a total of 1 files in run ../lattice/improv_runs/bmn2_su3_g05/l96/t01
--- total data size: (1000, 15)
+-- total data size: (1000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l96/t01/data.h5
 - We have a total of 5 files in run ../lattice/improv_runs/bmn2_su3_g05/l96/t025
--- total data size: (2820, 15)
+-- total data size: (2820, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l96/t025/data.h5
 - We have a total of 3 files in run ../lattice/improv_runs/bmn2_su3_g05/l96/t02
--- total data size: (1000, 15)
+-- total data size: (1000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l96/t02/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g05/l96/t04
--- total data size: (1000, 15)
+-- total data size: (1000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l96/t04/data.h5
 - We have a total of 3 files in run ../lattice/improv_runs/bmn2_su3_g05/l96/t015
--- total data size: (1000, 15)
+-- total data size: (1000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l96/t015/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g05/l96/t001
--- total data size: (1000, 15)
+-- total data size: (1000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l96/t001/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g05/l96/t03
--- total data size: (1000, 15)
+-- total data size: (1000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l96/t03/data.h5
 - We have a total of 4 files in run ../lattice/improv_runs/bmn2_su3_g05/l128/t005
--- total data size: (2100, 15)
+-- total data size: (2100, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l128/t005/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g05/l128/t035
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l128/t035/data.h5
 - We have a total of 4 files in run ../lattice/improv_runs/bmn2_su3_g05/l128/t0025
--- total data size: (2100, 15)
+-- total data size: (2100, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l128/t0025/data.h5
 - We have a total of 6 files in run ../lattice/improv_runs/bmn2_su3_g05/l128/t01
--- total data size: (5010, 15)
+-- total data size: (5010, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l128/t01/data.h5
 - We have a total of 5 files in run ../lattice/improv_runs/bmn2_su3_g05/l128/t025
--- total data size: (1150, 15)
+-- total data size: (1150, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l128/t025/data.h5
 - We have a total of 5 files in run ../lattice/improv_runs/bmn2_su3_g05/l128/t02
--- total data size: (2195, 15)
+-- total data size: (2195, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l128/t02/data.h5
 - We have a total of 9 files in run ../lattice/improv_runs/bmn2_su3_g05/l128/t04
--- total data size: (1600, 15)
+-- total data size: (1600, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l128/t04/data.h5
 - We have a total of 4 files in run ../lattice/improv_runs/bmn2_su3_g05/l128/t015
--- total data size: (2050, 15)
+-- total data size: (2050, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l128/t015/data.h5
 - We have a total of 6 files in run ../lattice/improv_runs/bmn2_su3_g05/l128/t001
--- total data size: (2300, 15)
+-- total data size: (2300, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l128/t001/data.h5
 - We have a total of 3 files in run ../lattice/improv_runs/bmn2_su3_g05/l128/t03
--- total data size: (1050, 15)
+-- total data size: (1050, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l128/t03/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g05/l64/t005
--- total data size: (1000, 15)
+-- total data size: (1000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l64/t005/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g05/l64/t035
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l64/t035/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g05/l64/t0025
--- total data size: (1000, 15)
+-- total data size: (1000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l64/t0025/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g05/l64/t01
--- total data size: (1000, 15)
+-- total data size: (1000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l64/t01/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g05/l64/t025
--- total data size: (1000, 15)
+-- total data size: (1000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l64/t025/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g05/l64/t02
--- total data size: (1000, 15)
+-- total data size: (1000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l64/t02/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g05/l64/t04
--- total data size: (1000, 15)
+-- total data size: (1000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l64/t04/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g05/l64/t015
--- total data size: (1000, 15)
+-- total data size: (1000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l64/t015/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g05/l64/t001
--- total data size: (1000, 15)
+-- total data size: (1000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l64/t001/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su3_g05/l64/t03
--- total data size: (1000, 15)
+-- total data size: (1000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su3_g05/l64/t03/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g05/l16/t005
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g05/l16/t005/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g05/l16/t01
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g05/l16/t01/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g05/l16/t025
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g05/l16/t025/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g05/l16/t02
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g05/l16/t02/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g05/l16/t04
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g05/l16/t04/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g05/l16/t015
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g05/l16/t015/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g05/l16/t03
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g05/l16/t03/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g05/l32/t005
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g05/l32/t005/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g05/l32/t01
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g05/l32/t01/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g05/l32/t025
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g05/l32/t025/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g05/l32/t02
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g05/l32/t02/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g05/l32/t04
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g05/l32/t04/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g05/l32/t015
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g05/l32/t015/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g05/l32/t03
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g05/l32/t03/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g05/l48/t005
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g05/l48/t005/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g05/l48/t01
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g05/l48/t01/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g05/l48/t025
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g05/l48/t025/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g05/l48/t02
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g05/l48/t02/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g05/l48/t04
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g05/l48/t04/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g05/l48/t015
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g05/l48/t015/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g05/l48/t03
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g05/l48/t03/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g05/l192/t005
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g05/l192/t005/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g05/l192/t01
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g05/l192/t01/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g05/l192/t025
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g05/l192/t025/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g05/l192/t02
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g05/l192/t02/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g05/l192/t04
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g05/l192/t04/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g05/l192/t015
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g05/l192/t015/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g05/l192/t03
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g05/l192/t03/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g05/l24/t005
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g05/l24/t005/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g05/l24/t01
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g05/l24/t01/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g05/l24/t025
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g05/l24/t025/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g05/l24/t02
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g05/l24/t02/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g05/l24/t04
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g05/l24/t04/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g05/l24/t015
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g05/l24/t015/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g05/l24/t03
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g05/l24/t03/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g05/l96/t005
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g05/l96/t005/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g05/l96/t01
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g05/l96/t01/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g05/l96/t025
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g05/l96/t025/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g05/l96/t02
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g05/l96/t02/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g05/l96/t04
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g05/l96/t04/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g05/l96/t015
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g05/l96/t015/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g05/l96/t03
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g05/l96/t03/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g05/l128/t005
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g05/l128/t005/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g05/l128/t01
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g05/l128/t01/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g05/l128/t025
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g05/l128/t025/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g05/l128/t02
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g05/l128/t02/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g05/l128/t04
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g05/l128/t04/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g05/l128/t015
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g05/l128/t015/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g05/l128/t03
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g05/l128/t03/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g05/l64/t005
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g05/l64/t005/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g05/l64/t01
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g05/l64/t01/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g05/l64/t025
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g05/l64/t025/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g05/l64/t02
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g05/l64/t02/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g05/l64/t04
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g05/l64/t04/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g05/l64/t015
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g05/l64/t015/data.h5
 - We have a total of 2 files in run ../lattice/improv_runs/bmn2_su2_g05/l64/t03
--- total data size: (2000, 15)
+-- total data size: (2000, 16)
 -- file saved in ../lattice/improv_runs/bmn2_su2_g05/l64/t03/data.h5

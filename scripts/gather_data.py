@@ -91,8 +91,9 @@ def create_dataframe(pfile: str) -> pd.DataFrame:
     # add mcmc params as columns
     for k, v in mc_params.items():
         data[k] = v
-    # add mdtu columns
-    data["mdtu"] = data.xdtau * data.ntau * data.index
+    # add traj_length and mdtu columns
+    data["tau"] = data.xdtau * data.ntau
+    data["mdtu"] = data.tau * data.index
     return data
 
 
