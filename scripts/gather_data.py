@@ -91,9 +91,10 @@ def create_dataframe(pfile: str) -> pd.DataFrame:
     # add mcmc params as columns
     for k, v in mc_params.items():
         data[k] = v
-    # add traj_length and mdtu columns
+    # add traj_length and mdtu and save frequency columns
     data["tau"] = data.xdtau * data.ntau
     data["mdtu"] = data.tau * data.index
+    data["freq"] = data.mdtu.diff()
     return data
 
 
