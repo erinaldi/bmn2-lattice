@@ -6,10 +6,9 @@ import lsqfit as ls
 import numpy as np
 import os, sys, argparse
 import matplotlib
-
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
-
+plt.rc('text', usetex=True)
 
 def make_data(data, cut=0.45):
     df = data.query("`1/LT` < @cut")  # .drop_duplicates(subset="1/LT")
@@ -47,15 +46,9 @@ def parsing_args():
     parser.add_argument(
         "--file",
         type=str,
-        default="../improv_runs/bmn2_su3_g10/e.csv",
+        default="../lattice/improv_runs/bmn2_su3_g10/e.csv",
         help="change default name of CSV file. (default: %(default)s)",
     )
-    # parser.add_argument(
-    #     "--amax",
-    #     type=float,
-    #     default=0.45,
-    #     help="Max lattice spacing. (default: %(default)s)",
-    # )
     parser.add_argument(
         "--prior",
         nargs="+",
@@ -98,23 +91,27 @@ def plot_results(results, e_lim, figname):
             gv.mean(dff.E.values),
             gv.sdev(dff.E.values),
             fmt="o",
-            label=r"$\mathcal{O}$" + f"={o}",
+            label=r"$n_p$" + f"={o}",
         )
         ax2.plot(dff.cut + i / 200, dff.rchisq, linestyle="none", marker="s")
 
     ax2.axhline(1.0, color="black", linestyle="--")
     ax1.set_ylabel(r"$E_0$")
     ax2.set_ylabel(r"$\chi^{2}$/dof")
-    ax2.set_xlabel(r"$a_{max}$")
+    ax2.set_xlabel(r"$a_\textrm{max}$")
     #    ax1.set_title(r"SU(3) $\lambda=2.0$")
     ax1.legend(loc="lower left")
     figname = figname.split("/")[-2]
-    fig.savefig(f"plot_{figname}.jpg", dpi=150)
-    print(f"Saving plot to plot_{figname}.jpg")
+    fig.savefig(f"figures/{figname}_energy-fit_allT.pdf")
+    fig.savefig(f"figures/{figname}_energy-fit_allT.png")
+    print(f"Saving plot to plot_{figname}.pdf")
     plt.close(fig)
 
 
 if __name__ == "__main__":
+    """Make fits of 1/LT function for each cut in 1/LT and for different polynomial orders.
+    Plot the results in a PDF.
+    """
     filename, e_prior = parsing_args()
     data = pd.read_csv(filename, sep=",", header=0, dtype=float)
     data["1/LT"] = 1.0 / (data["L"] * data["T"])
@@ -127,7 +124,7 @@ if __name__ == "__main__":
     print(
         tabulate(
             results,
-            headers=["$a_{max}$", "$N$", "E", "$\chi^2$/dof"],
+            headers=["$a_\\textrm{max}$", "$n_p$", "E", "$\chi^2$/dof"],
             floatfmt=".2f",
             tablefmt="latex_raw",
         )

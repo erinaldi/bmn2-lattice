@@ -65,7 +65,7 @@ if __name__ == "__main__":
         print(
             tabulate(
                 data[["T", "L", "egv", "meas", "freq", "tau"]].values,
-                headers=["$T$", "$n_t$", "E", "$N_{\\textrm cfgs}$", "$N_{\\textrm drop}$", "$\\tau$"],
+                headers=["$T$", "$n_t$", "E", "$N_\\textrm{cfgs}$", "$N_\\textrm{drop}$", "$\\tau$"],
                 floatfmt=".3f",
                 tablefmt="latex_raw",
             ), file=f
