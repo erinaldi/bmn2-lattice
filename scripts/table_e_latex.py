@@ -24,8 +24,14 @@ def parsing_args():
     parser.add_argument(
         "--file",
         type=str,
-        default="../improv_runs/bmn2_su2_g05/e.csv",
+        default="../lattice/improv_runs/bmn2_su2_g05/e.csv",
         help="change default name of CSV file. (default: %(default)s)",
+    )
+    parser.add_argument(
+        "--output",
+        type=str,
+        default="tables",
+        help="change default folder for saving TEX table. (default: %(default)s)",
     )
     args = parser.parse_args()
     print("Arguments passed")
@@ -33,26 +39,34 @@ def parsing_args():
     ########
     filename = args.file
     if not os.path.isfile(filename):
-        print("CSV file {} does not exist. Exiting.".format(filename))
+        print(f"CSV file {filename} does not exist. Exiting.")
+        sys.exit()
+    folder = args.output
+    if not os.path.isdir(folder):
+        print(f"Folder {folder} does not exist. Exiting.")
         sys.exit()
 
-    return filename
+
+    return filename, folder
 
 
 if __name__ == "__main__":
-    filename = parsing_args()
+    filename, outfolder = parsing_args()
     data = pd.read_csv(filename)
 
     # make new column
     data["egv"] = data.apply(gvarfromrow, axis=1)
 
     # print out table with header line
-    print(filename)
-    print(
-        tabulate(
-            data[["T", "L", "egv", "tau", "bins"]].values,
-            headers=["$T$", "$n_t$", "E", "$\\tau$", "bins"],
-            floatfmt=".2f",
-            tablefmt="latex_raw",
+    outfilename = filename.split("/")[-2]
+    outfile = f"{outfolder}/{outfilename}_e.tex"
+    print(f"Saving to {outfile}")
+    with open(outfile,"w") as f:
+        print(
+            tabulate(
+                data[["T", "L", "egv", "meas", "freq", "tau"]].values,
+                headers=["$T$", "$n_t$", "E", "$N_{\\textrm cfgs}$", "$N_{\\textrm drop}$", "$\\tau$"],
+                floatfmt=".3f",
+                tablefmt="latex_raw",
+            ), file=f
         )
-    )
