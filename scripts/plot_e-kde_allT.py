@@ -58,7 +58,7 @@ def make_kde_plot(
     def label(x, color, label):
         ax = plt.gca()
         ax.text(
-            0,
+            0.75,
             0.2,
             label,
             fontweight="bold",
