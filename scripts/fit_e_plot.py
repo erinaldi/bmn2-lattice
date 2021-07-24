@@ -9,6 +9,7 @@ import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 plt.rc('text', usetex=True)
+plt.style.use("figures/paper.mplstyle")
 
 def make_data(data, cut=0.45):
     df = data.query("`1/LT` < @cut")  # .drop_duplicates(subset="1/LT")
@@ -46,7 +47,7 @@ def parsing_args():
     parser.add_argument(
         "--file",
         type=str,
-        default="../lattice/improv_runs/bmn2_su3_g10/e.csv",
+        default="../lattice/improv_runs/bmn2_su3_g20/e.csv",
         help="change default name of CSV file. (default: %(default)s)",
     )
     parser.add_argument(
@@ -100,7 +101,7 @@ def plot_results(results, e_lim, figname):
     ax2.set_ylabel(r"$\chi^{2}$/dof")
     ax2.set_xlabel(r"$a_\textrm{max}$")
     #    ax1.set_title(r"SU(3) $\lambda=2.0$")
-    ax1.legend(loc="lower left")
+    ax1.legend(loc="upper right")
     figname = figname.split("/")[-2]
     fig.savefig(f"figures/{figname}_energy-fit_allT.pdf")
     fig.savefig(f"figures/{figname}_energy-fit_allT.png")
@@ -121,14 +122,20 @@ if __name__ == "__main__":
             print(f"************************************* cut= {cut} order = {po}")
             fit = make_fit(data, e_prior, po, cut)
             results.append([cut, po, fit.p["E"], fit.chi2 / fit.dof])
-    print(
-        tabulate(
-            results,
-            headers=["$a_\\textrm{max}$", "$n_p$", "E", "$\chi^2$/dof"],
-            floatfmt=".2f",
-            tablefmt="latex_raw",
+
+    # saving table
+    outfilename = filename.split("/")[-2]
+    outfile = f"tables/{outfilename}_fit_e_allT.tex"
+    print(f"Saving to {outfile}")
+    with open(outfile,"w") as f:
+        print(
+            tabulate(
+                results,
+                headers=["$a_\\textrm{max}$", "$n_p$", "E", "$\chi^2$/dof"],
+                floatfmt=".2f",
+                tablefmt="latex_raw",
+            ), file=f
         )
-    )
     # plotting limits are given automatically by 10\sigma
     e_lims = [
         fit.p["E"].mean - 10 * fit.p["E"].sdev,
