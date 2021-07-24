@@ -46,7 +46,6 @@ def parsing_args():
         print(f"Folder {folder} does not exist. Exiting.")
         sys.exit()
 
-
     return filename, folder
 
 
@@ -61,12 +60,20 @@ if __name__ == "__main__":
     outfilename = filename.split("/")[-2]
     outfile = f"{outfolder}/{outfilename}_e.tex"
     print(f"Saving to {outfile}")
-    with open(outfile,"w") as f:
+    with open(outfile, "w") as f:
         print(
             tabulate(
                 data[["T", "L", "egv", "meas", "freq", "tau"]].values,
-                headers=["$T$", "$n_t$", "E", "$N_\\textrm{cfgs}$", "$N_\\textrm{drop}$", "$\\tau$"],
+                headers=[
+                    "$T$",
+                    "$n_t$",
+                    "E",
+                    "$N_\\textrm{cfgs}$",
+                    "$N_\\textrm{drop}$",
+                    "$\\tau$",
+                ],
                 floatfmt=".3f",
                 tablefmt="latex_raw",
-            ), file=f
+            ),
+            file=f,
         )

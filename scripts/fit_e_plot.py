@@ -6,10 +6,13 @@ import lsqfit as ls
 import numpy as np
 import os, sys, argparse
 import matplotlib
+
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
-plt.rc('text', usetex=True)
+
+plt.rc("text", usetex=True)
 plt.style.use("figures/paper.mplstyle")
+
 
 def make_data(data, cut=0.45):
     df = data.query("`1/LT` < @cut")  # .drop_duplicates(subset="1/LT")
@@ -127,14 +130,15 @@ if __name__ == "__main__":
     outfilename = filename.split("/")[-2]
     outfile = f"tables/{outfilename}_fit_e_allT.tex"
     print(f"Saving to {outfile}")
-    with open(outfile,"w") as f:
+    with open(outfile, "w") as f:
         print(
             tabulate(
                 results,
                 headers=["$a_\\textrm{max}$", "$n_p$", "E", "$\chi^2$/dof"],
                 floatfmt=".2f",
                 tablefmt="latex_raw",
-            ), file=f
+            ),
+            file=f,
         )
     # plotting limits are given automatically by 10\sigma
     e_lims = [

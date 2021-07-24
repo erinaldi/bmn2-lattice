@@ -133,5 +133,6 @@ def gather_data(
             result.sort_index().to_hdf(outputfile, "mcmc_obs", format="fixed", mode="w")
             print(f"-- file saved in {outputfile.as_posix()}")
 
+
 if __name__ == "__main__":
     fire.Fire(gather_data)
