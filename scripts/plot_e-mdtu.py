@@ -3,6 +3,7 @@ import seaborn as sns
 from pathlib import Path
 import fire
 import matplotlib.pyplot as plt
+
 sns.set_theme(style="white", rc={"axes.facecolor": (0, 0, 0, 0)})
 sns.set_context("poster")  # scale elements up or down in size
 
@@ -57,6 +58,7 @@ def make_joint_plot_e_mdtu(
     g.savefig(outputfile)
     plt.close()
 
+
 def main(
     datafolder: str = "../lattice/improv_runs/bmn2_su3_g05",
     outdir: str = "figures",
@@ -65,8 +67,8 @@ def main(
     """Main function which will generate plots for all the parameters in the data folder.
 
     Args:
-        datafolder (str, optional): The folder for a specific lattice coupling and gauge group. Defaults to "../../lattice/improv_runs/bmn2_su3_g05".
-        outdir (str, optional): The folder where we want to save the figures. Defaults to "../figures".
+        datafolder (str, optional): The folder for a specific lattice coupling and gauge group. Defaults to "../lattice/improv_runs/bmn2_su3_g05".
+        outdir (str, optional): The folder where we want to save the figures. Defaults to "figures".
         outfmt (str, optional): The format of the files (defines the filename extension). Defaults to "svg".
     """
     runs = Path(datafolder)
