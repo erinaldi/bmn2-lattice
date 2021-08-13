@@ -1,7 +1,7 @@
 # Analysis of Lattice Monte Carlo data for matrix quantum mechanics
 
 We collect data for the bosonic matrix model with 2 matrices and gauge group SU(2).
-The results are reported in the publication [Rinaldi et al. (2021)](www.arxiv.org/abs/2108.02942).
+The results are reported in the publication [Rinaldi et al. (2021)](https://www.arxiv.org/abs/2108.02942).
 Consider the citation in [Cite](#cite).
 
 
